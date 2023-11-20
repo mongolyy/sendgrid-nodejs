@@ -45,7 +45,7 @@
     "url": "https://github.com/sendgrid/sendgrid-nodejs/issues"
   },
   "homepage": "https://github.com/sendgrid/sendgrid-nodejs#readme",
-  "main": "index.js",
+  "main": "packages/mail/index.js",
   "directories": {
     "test": "test"
   },
